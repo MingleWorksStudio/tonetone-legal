@@ -70,5 +70,5 @@
 | --- | --- |
 | 상호 | 밍글웍스 (Mingleworks) |
 | 개인정보 보호책임자 | 이수연 |
-| 이메일 | mingleworks.studio@gmail.com |
+| 이메일 | hello@mingleworks.studio |
 | 주소 | 대전광역시 중구 중앙로 118, 4층 404호 (대전소셜벤처캠퍼스) |

@@ -9,4 +9,4 @@ title: Tone Tone
 - [개인정보처리방침](privacy)
 - [이용약관](terms)
 
-문의: mingleworks.studio@gmail.com
+문의: hello@mingleworks.studio

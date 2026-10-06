@@ -51,4 +51,4 @@
 | 항목 | 내용 |
 | --- | --- |
 | 상호 | 밍글웍스 (Mingleworks) |
-| 이메일 | mingleworks.studio@gmail.com |
+| 이메일 | hello@mingleworks.studio |
