@@ -1,8 +1,8 @@
 ---
-title: Tone Tone
+title: TONE TONE
 ---
 
-# Tone Tone
+# TONE TONE
 
 하루의 끝에 머문 가장 빛나던 순간을 색으로 남기는 캘린더 앱입니다.
 
